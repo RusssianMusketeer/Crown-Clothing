@@ -1,5 +1,4 @@
 import React from 'react';
-import { PrefixSource } from 'webpack-sources';
 
 import './cart-item.styles.scss';
 
